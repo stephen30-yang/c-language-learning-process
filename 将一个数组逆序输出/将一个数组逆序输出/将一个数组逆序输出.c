@@ -1,6 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-//将一个数组逆序输出
 int main()
 {
 	int arr1[10] = { 0 };
